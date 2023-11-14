@@ -46,7 +46,7 @@ class InicioScreen extends StatelessWidget {
                       ),
                     );
                   },
-                  child: Text('ENTRAR'),
+                  child: Text('INICIO'),
                 ),
               ],
             ),
