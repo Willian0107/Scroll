@@ -74,7 +74,7 @@ class _RawScrollbarExampleState extends State<RawScrollbarExample> {
                     return Container(
                       height: 60,
                       color: index.isEven
-                          ? Color.fromARGB(255, 37, 213, 192)
+                          ? Color.fromARGB(255, 21, 86, 79)
                           : Color.fromARGB(255, 18, 87, 101),
                       child: Padding(
                         padding: const EdgeInsets.all(8.0),
