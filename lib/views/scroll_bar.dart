@@ -6,7 +6,7 @@ class ScrollbarPage extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Scrollbar'),
+          title: Text('PROFEGÁMEWIN'),
           leading: IconButton(
             icon: Icon(Icons.arrow_back),
             onPressed: () {
